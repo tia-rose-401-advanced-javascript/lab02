@@ -7,7 +7,7 @@ const Vehicle = () => ({
   },
   stop: () => {
     return 'Stopping';
-  }
+  },
 });
 
 function Car(name) {
